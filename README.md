@@ -4,7 +4,7 @@ This cadCAD model and notebook series is part of an on-going effort to analyze T
 
 If you want to contribute / get involved, you can join our Discord server here - https://discord.gg/CpMYTU7ewb 
 
-## About The Graph
+## About The Graph (https://thegraph.com/)
 The Graph Network decentralizes the API and query layer of the internet application stack.
  - In The Graph Network, any Indexer will be able to stake Graph Tokens (GRT) to participate in the network and earn rewards for indexing subgraphs and fees for serving queries on those subgraphs.
  - Consumers will be able to query this diverse set of Indexers by paying for their metered usage, proving a model where the laws of supply and demand sustain the services provided by the protocol.
